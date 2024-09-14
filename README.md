@@ -1,4 +1,4 @@
-# Country-info
+# Country-infos
 
 ## Description
 Ce projet est un site web qui affiche des informations sur différents pays, en utilisant l'API REST Country. Il permet de consulter la capitale d'un pays,son continent et  son drapeau .
